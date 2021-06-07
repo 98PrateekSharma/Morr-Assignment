@@ -22,6 +22,10 @@
   ```
     python run.py
   ```
+  #### Facing problem regarding Dependancies install all Dependencies globally open cmd without Activating the env 
+  ```
+    pip install -r Essentials.txt
+  ```
 ### Unit Testing
   ```
     python test.py
