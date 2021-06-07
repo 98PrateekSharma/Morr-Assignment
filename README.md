@@ -24,5 +24,5 @@
   ```
 ### Move inside the test Folder from another cmd
   ```
-    python test.python
+    python test.py
   ```
