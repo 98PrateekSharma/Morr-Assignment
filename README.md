@@ -22,7 +22,7 @@
   ```
     python run.py
   ```
-### Move inside the test Folder from another cmd
+### Unit Testing
   ```
     python test.py
   ```
