@@ -12,5 +12,12 @@ for num in range(100):
     phone = fake.phone_number()
     contact = Contact(name=name, email=email, phone_number=phone)
     db.session.add(contact)
+    
+for num in range(10):
+    name = "Rem"
+    email = fake.email()
+    phone = fake.phone_number()
+    contact = Contact(name=name, email=email, phone_number=phone)
+    db.session.add(contact)
 
 db.session.commit()
